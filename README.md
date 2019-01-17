@@ -63,3 +63,4 @@ Supports the following platforms.
 
 See `CONTRIBUTING.md` for information related to the development of this
 module.
+
